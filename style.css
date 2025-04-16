@@ -331,7 +331,7 @@ body {
 
 #testimonial {
    
-    background: url(/test.png) no-repeat center center;
+    background: url(test.png) no-repeat center center;
     background-size: cover;
     position: relative; 
     min-height: 65vh; 
